@@ -18,8 +18,12 @@ var body: some View {
 }
 ```
 
-<video width="320" height="240" controls>
-    <source src="/Movies/View/AnimationExample.mov" type="video/mp4">
-</video>
+![demo](https://raw.github.com/wiki/annesmithog/Projects/about-swiftui/Videos/View/AnimationExample.gif)
+
+![demo](https://github.com/wiki/annesmithog/about-swiftui/videos/AnimationExample.gif)
+
+<!-- <video width="320" height="240" controls>
+    <source src="/Movies/View/AnimationExample.gif" type="video/mp4">
+</video> -->
 
 </div>
