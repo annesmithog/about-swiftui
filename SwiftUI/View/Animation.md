@@ -18,12 +18,13 @@ var body: some View {
 }
 ```
 
-![demo](https://raw.github.com/wiki/annesmithog/Projects/about-swiftui/Videos/View/AnimationExample.gif)
+##### `.linear`
 
-![demo](https://github.com/wiki/annesmithog/about-swiftui/videos/AnimationExample.gif)
+![demo](https://github.com/annesmithog/about-swiftui/blob/main/Videos/View/AnimationExample.gif?raw=true)
 
-<!-- <video width="320" height="240" controls>
-    <source src="/Movies/View/AnimationExample.gif" type="video/mp4">
-</video> -->
+##### `.default`
+##### `.easeInOut`
+##### `.easeIn`
+##### `.easeOut`
 
 </div>

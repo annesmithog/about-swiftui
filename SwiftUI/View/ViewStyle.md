@@ -90,7 +90,7 @@ Menu("性別") {
 
 <img src="/Images/View/MenuStyleButton.png">
 
-## `toggleSystem`
+## `toggleStyle`
 
 Toggleのスタイルを変更する
 
