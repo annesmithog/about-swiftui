@@ -14,7 +14,9 @@
 
 ## 例
 
-- [Apple Music](/Examples/AppleMusic.md)
+- [ダークモード対応](/Examples/Color.md)
+- [Apple Music アルバム](/Examples/AppleMusicAlbum.md)
+- [Apple Music クレジット](/Examples/AppleMusicCredit.md)
 
 ---
 
