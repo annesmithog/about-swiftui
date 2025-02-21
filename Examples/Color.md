@@ -2,9 +2,9 @@
 
 ## カラーセット
 
-<img src="/Images/Example/Color1.png">
+<img src="/images/examples/color/Color1.png">
 
-<img src="/Images/Example/Color2.png">
+<img src="/images/examples/color/Color2.png">
 
 ```swift
 ContentView()

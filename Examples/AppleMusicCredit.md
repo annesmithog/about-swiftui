@@ -41,4 +41,4 @@ struct ContentView: View {
 }
 ```
 
-<img src="/Images/Example/AppleMusicCredit.png">
+<img src="/images/examples/apple_music/AppleMusicCredit.png">

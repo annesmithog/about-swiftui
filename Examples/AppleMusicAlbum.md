@@ -160,4 +160,4 @@ struct ContentView: View {
 }
 ```
 
-<img src="/Images/Example/AppleMusicAlbum.png">
+<img src="/images/examples/apple_music/AppleMusicAlbum.png">
