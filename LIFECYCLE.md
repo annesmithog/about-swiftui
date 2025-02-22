@@ -2,8 +2,6 @@
 
 #### onDisappear
 
-ビューが消えた後に実行するアクションを追加する
-
 ```swift
 Text("Hello")
     .onDisappear() { print("Helloと表示されていました。") }
@@ -13,8 +11,6 @@ Text("World")
 ```
 
 #### onAppear
-
-ビューが表示される前に実行するアクションを追加する
 
 ```swift
 Text("Hello")

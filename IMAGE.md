@@ -39,6 +39,15 @@ Image(systemName: "flame").imageScale(.medium)
 Image(systemName: "flame").imageScale(.large)
 ```
 
+#### SF Symbolsを使う
+
+```swift
+HStack {
+    Image(systemName: "calendar.badge.plus")
+    Text("Calendar")
+}
+```
+
 #### symbolEffect
 
 ```swift
@@ -48,15 +57,6 @@ VStack {
 }
 .font(.system(size: 60))
 .symbolEffect(.bounce)
-```
-
-#### SF Symbolsを使う
-
-```swift
-HStack {
-    Image(systemName: "calendar.badge.plus")
-    Text("Calendar")
-}
 ```
 
 <img src="/images/image/sf.png">
