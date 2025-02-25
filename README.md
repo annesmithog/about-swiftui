@@ -13,6 +13,7 @@
 ## 例
 
 - [ダークモード対応](/examples/Color.md)
+- [Apple Music 下タブ](/examples/AppleMusicTabView.md)
 - [Apple Music アルバム画面](/examples/AppleMusicAlbum.md)
 - [Apple Music クレジット画面](/examples/AppleMusicCredit.md)
 
